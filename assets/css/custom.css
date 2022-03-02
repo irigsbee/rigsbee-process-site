@@ -7,17 +7,17 @@
 Just un comment the #banner rule below. */
 
 #banner {
-  background-color: #D0D1E1; 
+  background-image: url(../../images/rr-people-image6.png);
   background-size: cover;
-  color: #482E13;
-  /* text-shadow: 1px 1px 15px #333; */
+  color: #D0D1E1;
+  text-shadow: 1px 1px 15px #333;
   text-align: center;
   cursor: default;
   padding: 10em 4em 9em 4em;
 } 
 
 #banner h1 {
-  color: #482E13; 
+  color: #F4EFEB; 
 }
 
 /* If you want to change the banner button color. The following two css rules use a class called "redbtn".
