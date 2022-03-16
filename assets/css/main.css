@@ -2266,6 +2266,10 @@ font-style: normal;
 
 /* Image */
 
+		img {
+			border: 5px, solid, #A9A9C4; 
+		}
+
 	.image {
 		border: 0;
 		display: inline-block;
@@ -2274,6 +2278,7 @@ font-style: normal;
 
 		.image img {
 			display: block;
+			
 		}
 
 		.image.left, .image.right {

@@ -32,6 +32,14 @@ You can call the class whatever you want, but in order for it to work, it needs 
   background-color: #A9A9C4;
 }
 
+.card {
+  box-shadow: 0 4px 8px 0 #A9A9C4;
+
+}
+
+.figures {
+  padding: 0 16px; 
+}
 
 
 /*********************************************
